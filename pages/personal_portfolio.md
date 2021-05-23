@@ -90,4 +90,4 @@ This is an windows form application🖥️ which is used to store🗃️ and dis
 
 ## Social Connectivity
 
-[Facebook](https://www.facebook.com/jayasurya.obbu/) [LinkedIn](https://www.linkedin.com/in/jayasurya-obbu/) [Instagram](https://www.instagram.com/mr__circuit/) [Twitter](https://twitter.com/JayasuryaObbu) [Xing](https://www.xing.com/profile/Jayasurya_Obbu/) [GitHub](https://github.com/mr-circuit) [E-Mail]( mailto:hello@jayasurya.me)
+[Facebook](https://www.facebook.com/jayasurya.obbu/) [LinkedIn](https://www.linkedin.com/in/jayasurya-obbu/) [Instagram](https://www.instagram.com/jayasuryaobbu/) [Twitter](https://twitter.com/JayasuryaObbu) [Xing](https://www.xing.com/profile/Jayasurya_Obbu/) [GitHub](https://github.com/jayasuryaobbu) [E-Mail]( mailto:hello@jayasurya.me)
